@@ -16,17 +16,17 @@ Implementar a infraestrutura de rede cabeada e desenvolver um cardápio online f
 
 ## 3. Atividades a Serem Desenvolvidas
 
-| Nº| Atividade |
-|---|-----------|
-| 1 | ***Levantamento de Requisitos e Análise do Ambiente Físico:***  
+| Atividade |
+|------------|
+|**Levantamento de Requisitos e Análise do Ambiente Físico:**  
 Visita técnica ao restaurante para entender a estrutura física, identificar pontos de rede necessários e mapear limitações técnicas específicas do ambiente flutuante. |
-| 2 | ***Planejamento e Execução do Cabeamento de Rede:***
+|**Planejamento e Execução do Cabeamento de Rede:**
 Elaboração do projeto de cabeamento estruturado com definição dos pontos de acesso, instalação de cabos de rede, tomadas RJ-45, switch, roteador e demais componentes da infraestrutura. |
-| 3 | ***Testes e Validação da Rede:*** 
+|**Testes e Validação da Rede:** 
 Execução de testes de conectividade, desempenho da rede, verificação de estabilidade e cobertura dos pontos de acesso definidos. |
-| 4 | ***Desenvolvimento do Cardápio Online:*** 
+|**Desenvolvimento do Cardápio Online:** 
 Criação de uma landing page responsiva com layout simples e elegante, contendo o cardápio completo, preços atualizados, imagens e informações adicionais como formas de pagamento. |
-| 5 | ***Capacitação e Entrega do Projeto:***  
+|**Orientação e Entrega do Projeto:** 
 Orientação básica à equipe do restaurante sobre o uso do sistema e manutenção da rede; entrega de documentação com as configurações e estrutura do projeto implementado. |
 
 
